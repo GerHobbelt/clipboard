@@ -43,6 +43,10 @@ clip.on('copy', function(e){
 ## Links
 
   - w3c [clipboard apis](http://www.w3.org/TR/clipboard-apis/)
+  - [Can I Use...?](http://caniuse.com/#search=clipboard)
+  - Mozilla [MDN](https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent)
+  - Microsoft [MSDN](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx)
+
 
 ## License
 
